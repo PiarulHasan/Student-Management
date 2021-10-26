@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141478593679",
+    "project_id": "attendancedemo-67947",
+    "storage_bucket": "attendancedemo-67947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141478593679:android:5396e59c26320a20991cfa",
+        "android_client_info": {
+          "package_name": "com.excelitai.attendencedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141478593679-j4lb5v0u52m0sjn7p29o4fjaeku4aqkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4qm7si8ShJCN0z-HXKasMJ66X15SLng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141478593679-j4lb5v0u52m0sjn7p29o4fjaeku4aqkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
